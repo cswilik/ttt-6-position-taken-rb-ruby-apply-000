@@ -7,5 +7,4 @@ def position_taken?(board,input)
   end 
 end 
 
-position_taken(board,X)
 
